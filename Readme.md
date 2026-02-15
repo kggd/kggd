@@ -7,7 +7,7 @@
 
   - Asterisk server with 2 account
   - Personnalisation of your LLM with Ollama
-
+  - Multimedia server with Jellyfin and Qbittorent
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
