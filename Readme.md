@@ -1,6 +1,33 @@
 <h1 align="center">Hi 👋, I'm Kezyah-Garvey Govindin-Douglas</h1>
-<h3 align="left">A passionate of IT</h3>
 
+Étudiant en informatique orienté :
+- Linux 🐧
+- Virtualisation
+- Self-hosting
+- Réseau
+- Cybersécurité
+- IA locale
+
+## 🔧 Stack
+- Debian / Ubuntu
+- Docker
+- Tailscale
+- MariaDB
+- Open WebUI
+- Jellyfin
+- Apache
+- Python
+- Bash
+
+## 🖥️ Home Server
+- Xeon + RTX
+- VM Gaming GPU Passthrough
+- IA locale
+- Monitoring
+- Media Server
+- Ad blocker
+- DNS
+  
 - 📫 How to reach me **govindin.douglas.kg.4iii@gmail.com**
 
 <h2 align="left">I put all of my project in private</h2>
